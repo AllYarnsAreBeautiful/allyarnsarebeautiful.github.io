@@ -1,0 +1,11 @@
+# Site settings
+title: AYAB Knitting
+email: info@ayab-knitting.com
+description: "The goal of the AYAB project is to provide an alternative way to control the famous Brother KH-9xx range of knitting machines using a computer"
+baseurl: ""
+url: "http://www.ayab-knitting.com"
+twitter_username: AYABApparat
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "AYAB v0.80 released"
+date:   2015-12-01 23:15:00
+categories:
+---
+
+Finally, we are able to supply a [new version of the AYAB software](/software-and-documentation/). \\
+In the last few months, we collected your error logs and feature requests and 
+tried to put everything together into a new and hopefully better version.
+
+Besides some visual improvements (visualisation of the pattern position) and 
+a bunch of bug fixes (image rotation, inversion, ...), we also included some new 
+features. \\
+We got rid of the necessity to manually confirm when the machine is initialized, 
+the software recognizes the carriage passing the left hall sensor automatically 
+and starts the knitting process.
+
+Additionally, we got a last minute feature request from Cindy, who proposed a 
+dedicated mode for circular knitting (e.g. for knitting mittens). I hope she will 
+supply a tutorial for this soon!
+
+<img src="/assets/posts/mittens.png" width="500">
+
+Last but not least, we had to do some changes in the firmware because of the I2C 
+port expander we used on the new DIY AYAB shield. So for using the new version 
+of the AYAB shield, usage of [v0.80](/software-and-documentation/) (firmware AND software) is mandatory.
+
+<img src="/assets/posts/ayab_0.80.png" width="500">
+
+Of course, there is still some work to do and lots of open issues, but we 
+hope you enjoy the new version and use it for some nice projects!
+
+
+## 0.80 (November 2015)
+
+### Firmware
+
+* API v4
+* Added Test Mode
+* Added Auto-Init functionality
+* Added FW Version Define
+* Fixed reset of needles out of active needle area
+* Added support for I2C port expander on shield v1.3TH (MCP23008)
+
+### GUI
+
+* requires APIv4
+* Basic visualisation of pattern position
+* Mouse wheel zooming of pattern
+* Visualisation of Test Mode data
+* Auto-Init functionality (no need to click OK several times when starting to knit)
+* Firmware database moved to external JSON file
+* Fix pattern rotation direction
+* Fix pattern inversion
+* Fix growth of image when rotating
+* Fix unlocking of knit controls after image manipulation
+
+
