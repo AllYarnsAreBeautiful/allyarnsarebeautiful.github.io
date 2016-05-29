@@ -8,6 +8,7 @@ permalink: /media/
 
 (mostly in German)
 
+<p><a href="https://makezine.com/2016/05/26/back-punch-cards-arduino-close-gap-hacked-knitting/">2016-05-26: Makezine.com - How Punch Cards and Arduino Close the Gap on Hacked Knitting</a></p>
 <p><a href="http://etiberlin.wordpress.com/2014/08/11/ayab-brother-knitting-machine-hack/">2014-08-11: Electronic + Textile Institute Berlin</a></p>
 <p><a href="http://mariobehling.de/arduino-and-knitting-machines-ayab-graphic-interface-project">MarioBehling.de</a></p>
 <p><a href="http://hackaday.com/2014/06/30/thp-entry-all-yarns-are-beautiful/">2014-06-30: Hackaday.com</a></p>  
