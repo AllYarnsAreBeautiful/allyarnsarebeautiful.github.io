@@ -18,7 +18,7 @@ or you have a look at this [nice tutorial by Claire Williams](http://xxxclairewi
 
 ### 2. Download and Install AYAB Software
 Windows:
-<p><a href="http://ayab-knitting.com/res/ayab-0.80-windows.exe" target="_blank"><button type="button" class="btn btn-lg btn-primary">AYAB 0.80 (Windows)</button></a></p>
+<p><a href="http://andz.net/ayab/res/ayab-0.80-windows.exe" target="_blank"><button type="button" class="btn btn-lg btn-primary">AYAB 0.80 (Windows)</button></a></p>
 
 Run the downloaded file and install to the proposed folder.
 
