@@ -4,7 +4,6 @@ rvm:
 cache:
   bundler: true
 install: 
-  - gem install bundle
   - bundle install
 script:
   - jekyll build
