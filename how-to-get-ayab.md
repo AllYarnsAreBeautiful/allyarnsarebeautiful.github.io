@@ -10,4 +10,5 @@ The AYAB Shield is Open Source.<br>
 For PCB manufacturing you might use [OSH Park](https://oshpark.com/shared_projects/fY0Wu9ua) or [seeed studio](https://seeedstudio.com)
 
 ## Buy it!
-For people which are not into PCB manufacturing and soldering, <br>we also provide a way to get shield kits directly from us at <a href="https://shop.thinkstack.de">the thinkstack shop</a>.
+For people which are not into PCB manufacturing and soldering, <br> you can order the new [AYAB-Interface](/ayab-interface/) at the [Evil Mad Scientists Laboratories](http://shop.evilmadscientist.com/productsmenu/tinykitlist/835-ayab-page) shop. <br>
+We also provide a way to get self solder shield kits directly from us at the [thinkstack shop](https://shop.thinkstack.de).

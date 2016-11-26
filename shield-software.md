@@ -4,7 +4,7 @@ title: Shield Software
 permalink: /shield-software/
 ---
 
-All software components can be found in [our Git Repository](https://bitbucket.org/chris007de/ayab-apparat/src/).
+All software components can be found in [our Git Repository](https://github.com/AllYarnsAreBeautiful/ayab-desktop).
 
 ## Mac OS X
 

@@ -9,17 +9,17 @@ permalink: /shield-hardware/
 This shield version works only with **Arduino UNO**.<br>
 AYAB **Firmware v0.8** is required for this shield version.
 
-<img src="https://shop.thinkstack.de/2-thickbox_default/ayab-shield-loet-kit.jpg" width="50%">
+<img src="https://shop.thinkstack.de/13-thickbox_default/ayab-shield-solder-kit.jpg" width="50%">
 
 Manufacturing Data:
 
-* [Schematic](https://bitbucket.org/chris007de/ayab-apparat/raw/69e17f18b34db17ec81ac8188030affd33a133bd/hardware/10_ayab-arduino/through_hole/export/schematic.pdf?at=master)
-* [Layout](https://bitbucket.org/chris007de/ayab-apparat/raw/69e17f18b34db17ec81ac8188030affd33a133bd/hardware/10_ayab-arduino/through_hole/export/arduino_shield.pdf?at=master)
+* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/10_ayab-arduino/through_hole/export/schematic.pdf)
+* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
 * [Bill of Materials](https://bitbucket.org/chris007de/ayab-apparat/wiki/english/Hardware/Shield_v1-3TH)
 
 Helpful documents:
 
-* AYAB Shield Solder Instructions [english](https://bitbucket.org/chris007de/ayab-apparat/raw/a4fc476fb1cbce721c3514fe87bee1f4cca2068e/documents/Manuals/soldering/en/soldering_en.pdf)/[german](https://bitbucket.org/chris007de/ayab-apparat/raw/a4fc476fb1cbce721c3514fe87bee1f4cca2068e/documents/Manuals/soldering/de/soldering_de.pdf)
+* AYAB Shield Solder Instructions [english](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/en/soldering_en.pdf)/[german](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/de/soldering_de.pdf)
 * How to solder? [english](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](http://ayab-knitting.com/res/manuals/DE_SolderComic.pdf)
 
 <p><a href="/how-to-get-ayab/"><button type="button" class="btn btn-lg btn-primary">How to get this shield?</button></a></p>
@@ -28,7 +28,7 @@ Helpful documents:
 
 For all models except KH-900 and KH-965, Brother used a proprietary power connector.<br>
 It is possible to build a replica of this connector using a piece of acrylic and 2.00mm^2 solid copper wire. <br>
-The manufacturing data for the connector can be found [here](https://bitbucket.org/chris007de/ayab-apparat/raw/89ba48587c7d3574e0b1c690726eb17fa9bd0c91/hardware/05_connectors/kh9xx_power.pdf).
+The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/05_connectors/kh9xx_power.pdf).
 
 ## Older Versions
 Check [our wiki](https://bitbucket.org/chris007de/ayab-apparat/wiki/english/Hardware#!shield-versions) for more information about the older versions of the AYAB shield.<br>

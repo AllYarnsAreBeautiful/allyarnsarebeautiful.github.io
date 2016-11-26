@@ -40,6 +40,6 @@ bug fixes (e.g. the broken installation in Linux using pypi).
 Apart from this development, we are currently collecting issues which have to be fixed
 for the upcoming version v0.85. So if you are really annoyed by a certain bug or
 have a good idea to improve the functionality of the software, please share
-by [Email](mailto:info@ayab-knitting.com) or use [our bugtracker](https://bitbucket.org/chris007de/ayab-apparat/issues?status=new&status=open)
+by [Email](mailto:info@ayab-knitting.com) or use [our bugtracker](https://github.com/AllYarnsAreBeautiful/ayab-desktop/issues)
 
 Also, help to fill our [FAQ](/faq) is highly appreciated!

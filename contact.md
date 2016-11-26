@@ -12,9 +12,9 @@ Web-Chat: [User Chat](https://webirc.darkfasel.net/#ayab) & [Developer Chat](htt
 
 ### Wiki, Bugtracker, ...
 
-[Source Code Repository](https://bitbucket.org/chris007de/ayab-apparat) \\
-[Wiki](https://bitbucket.org/chris007de/ayab-apparat/wiki/Home) \\
-[Bugtracker](https://bitbucket.org/chris007de/ayab-apparat/issues)
+[Source Code Repository](https://github.com/AllYarnsAreBeautiful) \\
+[Wiki](https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki) \\
+[Bugtracker](https://github.com/AllYarnsAreBeautiful/ayab-desktop/issues)
 
 ### Impressum:
 
