@@ -8,13 +8,15 @@ permalink: /software-and-documentation/
 
 or you have a look at this [nice tutorial by Claire Williams](http://xxxclairewilliamsxxx.wordpress.com/hack-ta-machine-a-tricoter/hack-your-knitting-machine-tutorial/)
 
-### 1. Installation of the AYAB shield into the machine
+### 1. Install the Hardware into your Machine
 
-<div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='http://player.vimeo.com/video/99870358' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-</div>
+#### AYAB-Shield
 
+[Installation Video](https://vimeo.com/99870358)
+
+#### AYAB-Interface
+
+[AYAB-Interface](/ayab-interface/) 
 
 ### 2. Download and Install AYAB Software
 Windows:
