@@ -227,7 +227,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 }
 
 .post-content table {
-  margin-left: auto;
+  margin-left: 0;
   margin-right: auto;
 }
 

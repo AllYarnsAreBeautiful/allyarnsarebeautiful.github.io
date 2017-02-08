@@ -177,8 +177,10 @@ optgroup {
   font-weight: bold;
 }
 table {
-  border-spacing: 0;
+  border-spacing: 2;
   border-collapse: collapse;
+  text-align: left;
+  margin-left: 0;
 }
 td,
 th {
@@ -239,6 +241,7 @@ th {
   }
   .table td,
   .table th {
+    
     background-color: #fff !important;
   }
   .btn > .caret,

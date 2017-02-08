@@ -1,29 +1,27 @@
 ---
 layout: page
-title: Shield Hardware
-permalink: /shield-hardware/
+title: Shield Hardware 1.3 Through Hole
+permalink: /shield-hardware-1-3/
 ---
 
-## Current Version: Shield v1.4TH (Through-Hole)
+## This is not the current Version. See [Shield v1.4TH (Through-Hole)](/shield-hardware/) for current Version.
 
 This shield version works only with **Arduino UNO**.<br>
 AYAB **Firmware v0.8** or greater is required for this shield version.
-The main difference to the 1.3TH are the additional 2.0mm Connectors for KH-900 and CK-35
 
-<img src="/assets/shields/1_4.jpg" width="50%">
+<img src="/assets/shields/1_3.jpg" width="50%">
 
 Manufacturing Data:
 
-* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/Shieldv1x/10_ayab-arduino/through_hole/export/schematic.pdf)
-* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/Shieldv1x/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
-* [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/master/Shieldv1x/10_ayab-arduino/through_hole)
+* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.3th/10_ayab-arduino/through_hole/export/schematic.pdf)
+* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.3th/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
+* [GERBER](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.3th/10_ayab-arduino/through_hole/arduino_shield.zip)
+* [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/v1.3th/10_ayab-arduino/through_hole)
 
 Helpful documents:
 
 * AYAB Shield Solder Instructions [english](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/en/soldering_en.pdf)/[german](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/de/soldering_de.pdf)
 * How to solder? [english](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](http://ayab-knitting.com/res/manuals/DE_SolderComic.pdf)
-
-<p><a href="/how-to-get-ayab/"><button type="button" class="btn btn-lg btn-primary">How to get this shield?</button></a></p>
 
 ### Power connector
 
@@ -33,7 +31,7 @@ The manufacturing data for the connector can be found [here](https://github.com/
 
 ## Other Versions
 
-* [Shield v1.3TH](/shield-hardware-1-3/)
+* [Shield v1.4TH](/shield-hardware/)
 * [Shield v1.1 and v1.2 (SMD)](/shield-hardware-1-1/)
 * [Shield v1.0 (KH-910 only!)](/shield-hardware-1-0/)
 
