@@ -159,7 +159,7 @@ Maybe your Carriage Lock gets lost, with this you may create your own.
 Line Ending: \n\r (10 13)
 
 #### Sequence Chart
-{{https://bitbucket.org/repo/p764KK/images/3502658833-seqdiag-a0c578354bf449ecec2c26ec54576987d30832dd.png|seqdiag-a0c578354bf449ecec2c26ec54576987d30832dd.png}}
+<img src="/assets/serial_communication.png">
 
 #### Message identifier format
 
