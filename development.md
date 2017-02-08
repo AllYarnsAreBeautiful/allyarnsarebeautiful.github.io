@@ -152,3 +152,65 @@ Maybe your Carriage Lock gets lost, with this you may create your own.
 | 1     | white   | 5 V
 | 2     | black   | GND
 | 3     | red     | Hall sensor right (EOL_right)
+
+### Serial Communication
+
+115200 baud \\
+Line Ending: \n\r (10 13)
+
+#### Sequence Chart
+{{https://bitbucket.org/repo/p764KK/images/3502658833-seqdiag-a0c578354bf449ecec2c26ec54576987d30832dd.png|seqdiag-a0c578354bf449ecec2c26ec54576987d30832dd.png}}
+
+#### Message identifier format
+
+0b"**AB**rr **CCCC**"
+
+|A   | message source     | *0 = host*    | *1 = hardware*
+|B   | message type       | *0 = request* | *1 = confirm*
+|r   | reserved           |
+|CCCC| message identifier |
+
+#### Message definitions (API v5)
+
+|**name**  |**source**|**id**|**parameters** | |**length incl id**|**description**
+| reqStart | host     | 0x01 | 0xaa 0xbb 0xcc | *aa = machine type (see below)*<br>*bb = startNeedle (Range: 0..198)*<br>*cc = stopNeedle (Range: 1..199)*    | 4 | -
+| cnfStart | hardware | 0xC1 | 0x0a           | *a = success (0 = false, 1 = true* | 2  | -
+| reqLine  | hardware | 0x82 | 0xaa           | *aa = lineNumber (Range: 0..255*   | 2  | -
+| cnfLine  | host     | 0x42 | 0xaa 0xbb[24] 0xbb[..] 0xbb[0] 0xcc 0xdd | *aa = lineNumber (Range: 0..255*<br>*bb[] = binary pixel data*<br>*cc = flags (bit 0: lastLine*<br>*dd = CRC8 Checksum* | 29 | -
+| reqInfo  | host     | 0x03 | -              |                                         | 1 | -
+| cnfInfo  | hardware | 0xC3 | 0xaa 0xbb 0xcc | *aa = Version identifier*<br>*bb = Major Version*<br>*cc = Minor Version* | 4 | -
+| indInit | hardware | 0x84 | 0x0a            | *a = initialized (0,1)*             | 2 | -
+| 
+| debug   | hardware | 0xFF | debug_string    |                                         | var | -
+
+|**ID**|**Machine Type**
+|
+| 0    | undefined/none
+| 1    | KH-910, KH-950(i)
+| 2    | KH-900, KH-930, KH-965(i), CK-35
+| 3    | KH-270
+| 255  | Diagnostic Mode
+
+#### Message definitions (API v4)
+
+|**name**|**source**|**id**|**parameters**||**length incl id**|**description**
+| reqStart | host     | 0x01 | 0xaa 0xbb | *aa = startNeedle (Range: 0..198)*<br>*bb = stopNeedle (Range: 1..199)| 3 | -
+| cnfStart | hardware | 0xC1 | 0x0a      | *a = success (0 = false, 1 = true)* | 2 | -
+| reqLine  | hardware | 0x82 | 0xaa      | *aa = lineNumber (Range: 0..255)* | 2 | -
+| cnfLine  | host     | 0x42 | 0xaa 0xbb[24] 0xbb[..] 0xbb[0] 0xcc 0xdd | *aa = lineNumber (Range: 0..255)*<br>*bb[] = binary pixel data*<br>*cc = flags (bit 0: lastLine)*<br>*dd = CRC8 Checksum*| 29 | -
+| reqInfo  | host     | 0x03 | -         | | 1 | -
+| cnfInfo  | hardware | 0xC3 |0xaa 0xbb 0xcc | *aa = Version identifier*<br>*bb = Major Version*<br>*cc = Minor Version*| 4 | -
+| indInit  | hardware | 0x84 | 0x0a | *a = initialized (0,1)* | 2 | -
+|
+| debug    | hardware | 0xFF | debug_string || var | -
+
+#### Message definitions (API v3)
+
+|**name**|**source**|**id**|**parameters**||**length incl id**|**description**
+| reqStart | host     | 0x01 | 0xaa 0xbb | *aa = startNeedle (Range: 0..198)*<br>*bb = stopNeedle (Range: 1..199)* | 3 | -
+| cnfStart | hardware | 0xC1 | 0x0a | *a = success (0 = false, 1 = true)* | 2 | -
+| reqLine  | hardware | 0x82 | 0xaa | *aa = lineNumber (Range: 0..255)* | 2 | -
+| cnfLine  | host     | 0x42 | 0xaa 0xbb[24] 0xbb[..] 0xbb[0] 0xcc 0xdd | *aa = lineNumber (Range: 0..255)*<br>*bb[] = binary pixel data*<br>*cc = flags (bit 0: lastLine)*<br>*dd = CRC8 Checksum//| 29 | -
+| reqInfo  | host     | 0x03 | - || 1 | -
+| cnfInfo  | hardware | 0xC3 | 0xaa | *aa = Version identifier*| 2 | -
+| debug    | hardware | 0xFF | debug_string || var | -
