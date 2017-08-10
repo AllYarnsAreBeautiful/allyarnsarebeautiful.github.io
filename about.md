@@ -8,7 +8,7 @@ E-Mail: [info@ayab-knitting.com](mailto:info@ayab-knitting.com)
 
 Twitter: [@AYABApparat](https://twitter.com/AYABApparat)
 
-Web-Chat: [User Chat](https://webirc.darkfasel.net/#ayab) & [Developer Chat](https://webirc.darkfasel.net/#ayab)
+Web-Chat: [Gitter](https://gitter.im/AllYarnsAreBeautiful/Lobby)
 
 ### Wiki, Bugtracker, ...
 
@@ -19,10 +19,6 @@ Web-Chat: [User Chat](https://webirc.darkfasel.net/#ayab) & [Developer Chat](htt
 ### Impressum:
 
 Andreas Müller \\
-Türkenstraße 21 \\
-80799 München \\
+Leipartstr. 21 \\
+81369 München \\
 Telefon: +49 (0) 89 / 379 651 28
-
-
-
-
