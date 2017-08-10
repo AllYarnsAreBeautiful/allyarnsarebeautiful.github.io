@@ -16,7 +16,7 @@ The AYAB-Interface has some new features compared to the AYAB-Shield:
 * External plug-in power supply for the machine supply - This also allows machines with defective capacitor / power supply or Japanese 110V machines to be used without modifications.
 * Flat design - The flat design allows the Interface to be fully integrated into the machine without milling holes in the housing.
 
-In addition, a stable metal cover can be ordered from the beginning of 2017. 
+In addition, a stable metal cover may be available from mid 2017.
 
 <img src="/assets/posts/housing.jpg" width="400">
 
@@ -26,6 +26,4 @@ Of course, the AYAB interface also remains under an OpenSource license, the case
 
 Furthermore, the AYAB interface is 100% software compatible with the AYAB-Shield. No software change is necessary and the functionality is the same for both versions.
 
-**ATTENTION:** The interface can currently only be ordered directly from the USA. This means that for european users a plug-in power supply is required in addition to the possibly import turnover tax! Available e.g. at [Amazon](https://www.amazon.de/dp/B00HVA9GPW/)
-
-In addition, a new section was introduced specifically for the support of the new hardware in the [EMSL-Forum](http://forum.evilmadscientist.com/categories/ayab-all-yarns-are-beautiful) 
+In addition, a new section was introduced specifically for the support of the new hardware in the [EMSL-Forum](http://forum.evilmadscientist.com/categories/ayab-all-yarns-are-beautiful)
