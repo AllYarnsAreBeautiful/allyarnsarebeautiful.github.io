@@ -23,7 +23,7 @@ Helpful documents:
 * AYAB Shield Solder Instructions [english](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/en/soldering_en.pdf)/[german](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/de/soldering_de.pdf)
 * How to solder? [english](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](http://ayab-knitting.com/res/manuals/DE_SolderComic.pdf)
 
-<p><a href="/how-to-get-ayab/"><button type="button" class="btn btn-lg btn-primary">How to get this shield?</button></a></p>
+<p><a href="/ayab-hardware/"><button type="button" class="btn btn-lg btn-primary">How to get this shield?</button></a></p>
 
 ### Power connector
 
@@ -66,7 +66,7 @@ Only the power connector (S1) is a pretty special type. As it was not possible t
 |  --       |           1 | PSK-KONTAKTE    | Contacts for beeper
 |  --       |           1 | SUMMER 6V       | Beeper
 
-#### rs-online.com 
+#### rs-online.com
 
 | **ID**    | **Amount**  | **Order#**      | **Description**
 |  IC3,IC4  |           2 | 403-563         |  MCP23008-E/P I2C Port-Expander

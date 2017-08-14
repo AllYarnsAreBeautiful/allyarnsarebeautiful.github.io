@@ -6,6 +6,15 @@ permalink: /development/
 
 ## Development Information
 
+* [Hardware](#hardware)
+* [Software](#software)
+  * [Hardware Emulation](#hardware-emulation)
+* [Carriage Lock](#carriage-lock)
+* [Internal Connectors](#internal-connectors)
+  * [KH-910 Internal Connectors](#kh-910-internal-connectors)
+  * [KH-930 Internal Connectors](#kh-930-internal-connectors)
+* [Serial Communication](#serial-communication)
+
 ### Hardware
 For information about the KH-9xx hardware prerequisites and the Arduino shield, see [Hardware](/shield-hardware)
 
@@ -13,7 +22,7 @@ For information about the KH-9xx hardware prerequisites and the Arduino shield, 
 We tried to keep the communication between the knitting machine/controller and the host computer as simple as possible. Information about the API and the communication can be found at [Software](/shield-software).
 With this knowledge it should be easy for you to code your own AYAB client software.
 
-### Hardware emulation
+#### Hardware emulation
 
 To be able to develop a client-software without the access to a knitting machine and an AYAB Shield, there is the possibility of using this mode to mockup carriage operation only using your Arduino.
 
@@ -33,7 +42,7 @@ Additionally, you have to connect the following peripherals to your Arduino:
           |   |           
           +-+-+           
             |             
-Pin7  +-----+ 
+Pin7  +-----+
             |            
             + +           
               |           
@@ -45,7 +54,7 @@ GND   +-----+
 ```
 When this mode is enabled, pressing the button has the same effect as when the carriage reaches the end of a line. At the beginning of the operation, the button press intitializes the machine.
 
-### Lost your carriage lock?
+### Carriage Lock?
 
 Maybe your Carriage Lock gets lost, with this you may create your own.
 
@@ -68,29 +77,29 @@ Maybe your Carriage Lock gets lost, with this you may create your own.
 | **S2**
 | 1     | green  | 16 V
 | 2     | blue   | 16V
-| 3     |        | solenoid 
+| 3     |        | solenoid
 | 4     |        | solenoid
-| 5     |        | solenoid 
+| 5     |        | solenoid
 | 6     |        | solenoid
-| 7     |        | solenoid 
+| 7     |        | solenoid
 | 8     |        | solenoid
-| 9     |        | solenoid 
+| 9     |        | solenoid
 | 10    |        | solenoid
 |
 | **S3**
 | 1     |        | solenoid
 | 2     |        | solenoid
-| 3     |        | solenoid 
+| 3     |        | solenoid
 | 4     |        | solenoid
-| 5     |        | solenoid 
+| 5     |        | solenoid
 | 6     |        | solenoid
-| 7     |        | solenoid 
+| 7     |        | solenoid
 | 8     |        | solenoid
 |
 |**S5**
 | 1     | white  | 5 V
 | 2     | black  | GND
-| 3     | -      | - 
+| 3     | -      | -
 | 4     | red    | V2 - Needle counter (right fast)
 | 5     | blue   | V1 - Needle counter (right slow)
 | 6     | green  | Belt shift signal
@@ -100,7 +109,7 @@ Maybe your Carriage Lock gets lost, with this you may create your own.
 | 10    | blue   | Scanner color (high: black, low: white)
 |
 | **S7**
-| 1     | red    | Hall sensor left 
+| 1     | red    | Hall sensor left
 | 2     | black  | GND
 | 3     | white  | 5 V
 
@@ -180,7 +189,7 @@ Line Ending: \n\r (10 13)
 | reqInfo  | host     | 0x03 | -              |                                         | 1 | -
 | cnfInfo  | hardware | 0xC3 | 0xaa 0xbb 0xcc | *aa = Version identifier*<br>*bb = Major Version*<br>*cc = Minor Version* | 4 | -
 | indInit | hardware | 0x84 | 0x0a            | *a = initialized (0,1)*             | 2 | -
-| 
+|
 | debug   | hardware | 0xFF | debug_string    |                                         | var | -
 
 |**ID**|**Machine Type**

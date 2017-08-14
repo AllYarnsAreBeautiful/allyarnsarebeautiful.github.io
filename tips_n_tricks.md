@@ -4,6 +4,15 @@ title: Tips and Tricks
 permalink: /tips-n-tricks/
 ---
 
+* [Yarn](#yarn)
+* [Troubleshooting](#troubleshooting)
+* [Step by Step Two-Color-Knitting](#step-by-step-two-color-knitting)
+  * [Machine Setup](#machine-setup)
+  * [Connect the Machine to your Computer](#connect-the-machine-to-your-computer)
+  * [First Rows](#first-rows)
+  * [Two-Color-Knitting](#two-color-knitting)
+  * [Last Row](#last-row)
+
 ## Yarn ##
 
 **Tested:**
@@ -15,9 +24,9 @@ permalink: /tips-n-tricks/
 * Nice look, no stretching
 * Set the **Tension Dial** to 10
 
-* **Problems:** 
+* **Problems:**
     + Sometimes, the contrast yarn doesn't get picked-up by the needles --> check every row!
-    + Sometimes, the yarn gets tangled in the gears, see **troubleshoot** 
+    + Sometimes, the yarn gets tangled in the gears, see **troubleshoot**
 
 **Yarn Thickness Nm 7 (350m/50g)**
 
@@ -25,23 +34,23 @@ permalink: /tips-n-tricks/
 * Easy knitting
 * Gets a bit stretched
 * Set the **Tension Dial** between 3 and 6
-* **Problems:** 
+* **Problems:**
     + Caused by the stretching of the knitted work (because of the smaller stitches), there are very long unknitted contrast yarns on the backside. Better knit with KC(II), so you have less unknitted yarn on the backside.
 
 ## Troubleshooting ##
 
-* Sometimes, when you knit a bit to fast, or with a wrong tension selection, the yarn gets tangled in the gears under the carriage. To prevent this: Knit slow and always have a look if the needles are open and the yarn is not too tensed. If the carriage gets struggled a bit: **STOP**. Now take a close look on the situation from the bottom. Maybe you can loosen the gears a bit and release the yarn from its impasse. Don't forget to tighten the gears again. If this doesn't help: Release the yarn feeding unit from the carriage, cleanup the situation and put it on again. 
+* Sometimes, when you knit a bit to fast, or with a wrong tension selection, the yarn gets tangled in the gears under the carriage. To prevent this: Knit slow and always have a look if the needles are open and the yarn is not too tensed. If the carriage gets struggled a bit: **STOP**. Now take a close look on the situation from the bottom. Maybe you can loosen the gears a bit and release the yarn from its impasse. Don't forget to tighten the gears again. If this doesn't help: Release the yarn feeding unit from the carriage, cleanup the situation and put it on again.
 * Always change the yarn on the **left** side
 * If your yarn ends, **DO NOT** attach a new yarn with a knot.
 
-# Step by Step Two-Color-Knitting
+## Step by Step Two-Color-Knitting
 
-## Machine Setup ##
+### Machine Setup ###
 
-1. Open the case 
+1. Open the case
 ![CaseOpened](/assets/tips/SBS_Case_Open.JPG)
 2. Place the machine and fix it with the **table clamps**
-3. Remove the **carriage lock** and set up the **sinker plate assembly** on the carriage 
+3. Remove the **carriage lock** and set up the **sinker plate assembly** on the carriage
 ![CarriageLock](/assets/tips/SBS_Release_Carriage.JPG)
 4. Set up the **yarn tension unit** and insert the **extension rails**
 ![TensionUnit](/assets/tips/SBS_Tension_Unit.JPG)
@@ -54,13 +63,13 @@ Now your Setup should look like in this picture:
 
 TODO: Picture of whole Machine
 
-## Connect the Machine to your Computer ##
+### Connect the Machine to your Computer ###
 
-For information on how to use the AYAB Control software, see [Software](Software)
+For information on how to use the AYAB Control software, see [Software](/quick-start/)
 
-## First Rows ##
+### First Rows ###
 
-### Start with Weaving Pattern ###
+#### Start with Weaving Pattern ####
 
 1. Put the carriage on the right side of the machine
 2. Bring the required needles to position **B**
@@ -82,11 +91,11 @@ For information on how to use the AYAB Control software, see [Software](Software
 12. Return the weaving pattern lever Knob (front knob) to N
 13. Smile and continue knitting
 
-### Start with Finished Edge ###
+#### Start with Finished Edge ####
 
 **TODO**
 
-## Two-Color-Knitting ##
+### Two-Color-Knitting ###
 
 Start the Job in the python-script by select menu No. 9
 1. Be sure that the carriage is behind the left return mark
@@ -105,6 +114,6 @@ Start the Job in the python-script by select menu No. 9
 12. Continue knitting for some rows
 13. FINISHED
 
-## Last Row ##
+### Last Row ###
 
 **TODO**
