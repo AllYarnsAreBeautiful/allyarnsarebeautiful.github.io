@@ -22,7 +22,7 @@ Currently, the following Brother Machines are supported by our hack.
  <div class="col-sm-4">
    <div class="list-group">
      <div class="list-group-item">
-       <h4 class="list-group-item-heading"><img src="/assets/machines/KH-930.png">Brother KH-930</h4>
+       <h4 class="list-group-item-heading"><img src="/assets/machines/KH-930.png">Brother KH-930, KH-940</h4>
        <p class="list-group-item-text"></p>
      </div>
  </div>
@@ -53,7 +53,7 @@ Currently, the following Brother Machines are supported by our hack.
  <div class="col-sm-4">
    <div class="list-group">
      <div class="list-group-item">
-       <h4 class="list-group-item-heading"><img src="/assets/machines/KH-950.png">Brother KH-950(i)</h4>
+       <h4 class="list-group-item-heading"><img src="/assets/machines/KH-950.png">Brother KH-950, KH-950i</h4>
        <p class="list-group-item-text"></p>
      </div>
  </div>
@@ -62,7 +62,7 @@ Currently, the following Brother Machines are supported by our hack.
  <div class="col-sm-4">
    <div class="list-group">
      <div class="list-group-item">
-       <h4 class="list-group-item-heading"><img src="/assets/machines/KH-965i.png">Brother KH-965(i)</h4>
+       <h4 class="list-group-item-heading"><img src="/assets/machines/KH-965i.png">Brother KH-965, KH-965i</h4>
        <p class="list-group-item-text"></p>
      </div>
  </div>
