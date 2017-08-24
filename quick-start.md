@@ -18,7 +18,7 @@ or you have a look at this [nice tutorial by Claire Williams](http://xxxclairewi
 
 ### 2. Download and Install AYAB Software
 
-[Information about this in the Software Section](/shield-software/)
+[Information about this in the Software Section](/ayab-software/)
 
 ### 3. Installation of the Arduino Driver
 **Windows:** \\
@@ -92,4 +92,4 @@ Here is a [Video Tutorial by Zaubermerline](https://youtu.be/TTIm8ezC0HY) (germa
 9. Follow the instructions on the screen
 
 
-<p><a href="http://issues.ayab-knitting.com"><button type="button" class="btn btn-lg btn-primary">Report a Problem!</button></a></p>
+<p><a href="https://github.com/AllYarnsAreBeautiful/ayab-desktop/issues"><button type="button" class="btn btn-lg btn-primary">Report a Problem!</button></a></p>
