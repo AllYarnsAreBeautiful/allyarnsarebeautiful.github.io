@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "AYAB v0.9"
+date:   2017-08-31 22:00:00
+categories:
+---
+
+*Deutsche Version unten.*
+
+
+Dear AYAB Users,
+
+after over 2.5 years there is finally a new version of the AYAB software!
+
+It's a bugfix-release, that means it fixes mostly known issues and no additional features are introduced.
+This is necessary to get more stability in the software and to have solid foundation for future developments.
+
+Here's the list of changes:
+
+### Firmware (Arduino)
+
+* New end beep
+* Fixing accidential double selection of last row (in every knitting mode)
+
+### GUI
+
+* OSX App Bundle
+* Added KH910 and custom patterns
+* Automatically maximising window on startup
+* Changing filename of logfile to ayab_log.txt
+* Showing filename in statusbar
+* Removed progress bar
+* Making user notification when using incompatible firmware more verbose
+
+### Fixes
+
+* check for valid number of colors in single and circular mode
+* improved image file dialogue
+* fix ABBA pattern in 2 color ribber infinite mode
+* fixing circular knitting
+* handling spaces in file paths
+* fixing multicolor ribber knitting
+* fixing start row in ribber infinite knitting
+* fixing image rotation
+* fix automatic setting of start/stop needle for odd image widths
+* fixing start line spinbox range
+
+### Important Notes:
+
+* The installation under Windows happens now with a setup, that means it can be installed and uninstalled like any other program. No manual copying from the zip file is necessary anymore.
+* The installation under Mac OSX may take a long time. Please be patient and do not cancel the installation.
+* There is a new Arduino Firmware version (v0.9). Please flash it to the Arduino before knitting the first time!
+
+A big thanks goes out to the many helping hands which contributed to this version directly and indirectly:
+Adrienne, Kirstin, Nico, derChris, Windell, andz, chris and the many users in the various forums and 
+communities who supplied us with bug reports and feature requests.
+
+For the upcoming version, we will work on new features, such as KH-270 support and vertical rapport repetition.
+If you want to contribute, feel free to contact us!
+
+**Have fun with the new version!**
+
+**Your AYAB Team**
+
+---
+
+
+Liebe AYAB User,
+
+nach über 2.5 Jahren gibt es nun endlich wieder eine neue Version der AYAB Software!
+
+Es handelt sich um ein Bugfix-Release, d.h. es werden hauptsächlich Fehler behoben 
+und keine neuen Funktionen eingeführt. Dafür ist hinter den Kulissen einiges geschehen und verbessert worden.
+Dies ist nötig um etwas mehr Stabilität in die Software zu bringen und somit eine solide 
+Basis für Weiterentwicklungen zu schaffen.
+
+Hier die Liste der eingeflossenen Änderungen:
+
+### Firmware (Arduino)
+
+* Neuer Piepton bei Ende des Musters
+* Fehlerhafte zweifache Selektion beim Ende des Musters behoben (in jedem Strickmodus)
+
+### Oberfläche (GUI)
+
+* Verbesserte Mac OSX Unterstützung
+* Original KH-910 Muster hinzugefügt
+* Fenster wird beim Start automatisch maximiert
+* Name der Logdatei in ayab_log.txt geändert
+* Dateiname wird in der Statusleiste angezeigt
+* Fortschrittsleiste entfernt
+* Meldung bei inkompatibler Arduino-Firmware Version verständlicher
+
+### Behobene Fehler
+
+* Überprüfung auf erlaubte Anzahl der Farben in Einzelbett und Circular Modus
+* Verbesserter "Datei öffnen" Dialog
+* 2-Farben Doppelbett-Endlosmodus repariert
+* Circular Modus repariert
+* Leerzeichen in Pfaden und Dateinamen erlaubt
+* Mehrfarb Doppelbett repariert
+* Startzeile in Doppelbett Endlosmodus repariert
+* Bild rotieren repariert
+* Automatisches setzen der Start-Stopp Nadeln bei ungeraden Bildbreiten repariert
+* Startzeilenbereichsauswahl repariert
+
+### Wichtige Hinweise:
+
+* Die Installation unter Windows geschieht nun mit einem Setup, d.h. die Software kann nun wie von anderen Programmen gewohnt installiert und deinstalliert werden. Kein manuelles kopieren der Dateien mehr nötig.
+* Die Installation unter Mac OSX kann unter Umständen sehr lange dauern. Bitte Geduld haben und nicht vorschnell abbrechen!
+* Es gibt eine neue Arduino Firmware (v0.9). Bitte spielt diese auf euren Arduino bevor ihr strickt!
+
+Ein großer Dank geht an die vielen Helfer die an dieser Version direkt und indirekt mitgewirkt haben:
+Adrienne, Kirstin, Nico, derChris, Windell, andz, chris und die vielen User in den diversen 
+Foren und Communities die uns mit Fehlermeldungen und Verbesserungsvorschlägen versorgen.
+
+Sofern mit dieser Version alles in Ordnung ist machen wir uns über den Winter hinweg an ein paar neue 
+Funktionen wie KH-270 Unterstützung, vertikaler Musterwiederholung etc.
+Mithilfe bei der Entwicklung ist immer gerne gesehen!
+
+Wir wünschen viel Spaß mit der neuen Version!
+Feedback und Fehlermeldungen können über die gewohnten Wege gemeldet werden.
+
+**Viele Grüße,
+euer AYAB Team**
+
+---
