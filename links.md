@@ -33,6 +33,23 @@ permalink: /links/
 
 ## Videos
 
+### Tutorial series by Zauber Merline
+Part One of a series. She used AYAB v0.75, some details have changed since then.
+
+<div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=t6NrdS0SLWM' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+</div>
+
+### How to make simple pixel images using Paint.net, by Gertrude Glitzerfee
+https://www.getpaint.net/ 
+Part One of a series, in German.
+
+<div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=kMlnaVO6UKs' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+</div>
+
 ### Workshop 'Knitting with vvvv' at NODE15, hosted by Quadrature
 
 <div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
