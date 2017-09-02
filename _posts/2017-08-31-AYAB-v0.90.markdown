@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AYAB v0.9"
-date:   2017-08-31 22:00:00
+date:   2017-09-02 12:00:00
 categories:
 ---
 
@@ -14,6 +14,8 @@ after over 2.5 years there is finally a new version of the AYAB software!
 
 It's a bugfix-release, that means it fixes mostly known issues and no additional features are introduced.
 This is necessary to get more stability in the software and to have solid foundation for future developments.
+
+We're still trying to improve the documentation, feel free to contribute!
 
 Here's the list of changes:
 
@@ -73,6 +75,8 @@ Es handelt sich um ein Bugfix-Release, d.h. es werden hauptsächlich Fehler beho
 und keine neuen Funktionen eingeführt. Dafür ist hinter den Kulissen einiges geschehen und verbessert worden.
 Dies ist nötig um etwas mehr Stabilität in die Software zu bringen und somit eine solide 
 Basis für Weiterentwicklungen zu schaffen.
+
+Wir versuchen weiterhin, die Dokumentation zu verbessern - tragt gerne dazu bei!
 
 Hier die Liste der eingeflossenen Änderungen:
 
