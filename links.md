@@ -15,6 +15,10 @@ permalink: /links/
 - [EMSL AYAB Interface Wiki](http://wiki.evilmadscientist.com/AYAB_Interface)
 - [EMSL AYAB Interface Forum](http://forum.evilmadscientist.com/categories/ayab-all-yarns-are-beautiful)
 
+## Tutorials
+
+ - [Tutorial for 2 color DBJ](https://slisen.blogspot.de/2013/03/a-lesson-in-2-color-double-bed-jacquard.html)
+
 ## Various
 
 - [Make: Learn The Lingo: Machine Knitting ](http://makezine.com/2017/07/27/learn-lingo-machine-knitting/)
