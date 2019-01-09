@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "AYAB v0.95 and plans for 2019"
+date:   2019-01-04 12:00:00
+categories:
+---
+
+*Deutsche Version unten.*
+
+Dear AYAB Users,
+
+again, you had to wait a long time for a new version. Sorry for that.
+
+We were continuously in touch with the community and many people gave us feedback 
+on the various channels.
+Also, users posted issues and even contributions to our project on Github.
+Thank you for all of this, we hope you still like the software!
+
+Our New Years' resolution is to make at least another release in 2019, with 
+severe improvements in various parts of the software. Also, KG and KH-270 support are still on the roadmap. We can't promise, so let's 
+hope for the best. Everybody how knows some Python programming is invited to 
+support us and join development.
+
+Another resolution is to improve documentation, and for this reason we created 
+the ![ayab-manual repository on Github](https://github.com/AllYarnsAreBeautiful/ayab-manual).
+It's intended to be a manual for the users on how to set the machine up, do their 
+first knittings with AYAB, and do more sophisticated projects e.g. with DBJ.
+Please feel free to contribute in this part of the project, especially for the 
+knitting instructions.
+It's written/formatted with Markdown, and we plan to make it accessible online 
+and ship an offline version of it with each upcoming release of the software.
+
+Also, we are planning to support of multiple languages of the software. Currently, 
+the only foreign language which is included is a not-so-up-to-date version of German.
+We'll provide instructions on how to contribute a translation for a new language, 
+so hopefully we'll have some more languages in the next releases.
+Same is for the homepage, we'll take measures to enable translations for it.
+
+Ok, enough on what we plan to do, here is the list of changes for the new release:
+
+### Firmware (Arduino)
+
+
+### GUI
+
+
+### Fixes
+
+
+### Important Notes:
+
+* The macOS version requires at least 10.12 (Sierra).
+* There is a new Arduino Firmware version (v0.95). Please flash it to the Arduino before knitting the first time!
+
+A big thanks goes out to the many helping hands which contributed to this version directly and indirectly!
+
+As always:
+**Have fun with the new version!**
+
+**Your AYAB Team**
+
+---
+
+
+Liebe AYAB UserInnen,
+
+ihr musstet wieder ziemlich lange auf eine neue Version warten, sorry dafür.
+
+Wir waren durchgehend mit der Community in Kontakt und viele Leute haben uns Rückmeldungen gegeben. Außerdem haben uns sogar einige Fehlermeldungen, Verbesserungswünsche und sogar Softwareverbesserungen auf Github erreicht.
+Vielen Dank für all das, wir hoffen ihr hattet weiterhin Spaß mit der Software!
+
+Unser Vorsatz für das neue Jahr ist, mindestens noch eine weitere Version der Sofware zu machen.
+Diese weiteren Versionen sollen dann grundsätzliche Verbesserungen in weiten Teilen der Software beinhalten. 
+Auch sind zum Beispiel noch die Unterstützung von KG-Schlitten und dem Modell KH-270 auf unserem Plan.
+Wir können wie immer nichts versprechen, hoffen aber das Beste.
+Wer sich ein bisschen mit Python auskennt, ist herzlich eingeladen uns dabei zu unterstützen.
+
+Ein weiterer Vorsatz ist die Dokumentation der Software zu verbessern. Für diesen Zweck haben wir das ![ayab-manual Repository auf Github](https://github.com/AllYarnsAreBeautiful/ayab-manual) erstellt. Es ist dafür vorgesehen, ein Benutzerhandbuch mit für die ersten Schritte, aber auch für fortgeschrittene Techniken wie DBJ zu werden. Auch dafür brauchen wir viele helfende Hände. Es ist in Markdown formatiert und wir wollen es online verfügbar machen, aber auch eine offline Version mit den nächsten Releases mitliefern.
+
+Außerdem wollen wir die Software mehrsprachig gestalten. 
+Aktuell gibt es nur eine deutsche/denglische Version (die nicht auf dem letzten Stand ist).
+Wir werden eine Anleitung erstellen wie man bei der Übersetzung mithelfen kann, und hoffen bald noch weitere Sprachen anbieten zu können.
+Das selbe gilt für die Homepage, auch dort wollen wir weitere Sprachen anbieten können.
+
+Ok genug über unsere Vorsätze, hier die Liste der Änderungen für die neue Version:
+
+### Firmware (Arduino)
+
+
+### Oberfläche (GUI)
+
+### Behobene Fehler
+
+### Wichtige Hinweise:
+
+* Für die macOS Version wird mindestens 10.12 (Sierra) benötigt.
+* Es gibt eine neue Arduino Firmware (v0.95). Bitte spielt diese auf euren Arduino bevor ihr strickt!
+
+Ein großer Dank geht an die vielen HelferInnen die an dieser Version direkt und indirekt mitgewirkt haben!
+
+Wir wünschen viel Spaß mit der neuen Version!
+
+**Viele Grüße,
+euer AYAB Team**
+
+---
