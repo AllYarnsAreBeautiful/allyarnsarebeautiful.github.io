@@ -61,6 +61,7 @@ For the upcoming version, we will work on new features, such as KH-270 support a
 If you want to contribute, feel free to contact us!
 
 **Have fun with the new version!**
+[Get it here](/ayab-software/)
 
 **Your AYAB Team**
 
@@ -124,6 +125,8 @@ Mithilfe bei der Entwicklung ist immer gerne gesehen!
 
 Wir wünschen viel Spaß mit der neuen Version!
 Feedback und Fehlermeldungen können über die gewohnten Wege gemeldet werden.
+
+[Hier geht's zur neuen Version](/ayab-software/)
 
 **Viele Grüße,
 euer AYAB Team**

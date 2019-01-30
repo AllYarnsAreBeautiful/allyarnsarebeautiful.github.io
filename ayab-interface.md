@@ -16,6 +16,9 @@ The AYAB-Interface has some new features compared to the AYAB-Shield:
 * External plug-in power supply for the machine supply - This also allows machines with defective capacitor / power supply or Japanese 110V machines to be used without modifications.
 * Flat design - The flat design allows the Interface to be fully integrated into the machine without milling holes in the housing.
 
+For hardware installation, please refer to [these instructions](http://wiki.evilmadscientist.com/AYAB_Hardware_Installation).
+
+
 In addition, a stable metal cover may be available from mid 2017.
 
 <img src="/assets/posts/housing.jpg" width="400">
