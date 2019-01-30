@@ -1,0 +1,149 @@
+---
+layout: post
+title:  "AYAB v0.95 and plans for 2019"
+date:   2019-01-30 19:00:00
+categories:
+---
+
+*Deutsche Version unten.*
+
+Dear AYAB Users,
+
+again, you had to wait a long time for a new version. Sorry for that.
+
+We were continuously in touch with the community and many people gave us feedback 
+on the various channels.
+Also, users posted issues and even contributions to our project on Github.
+Thank you for all of this, we hope you still like the software!  
+We know that many of you are waiting for Garter Carriage support. We did quite some progress with that topic, but we're definitely not done with it yet. Another topic (fixing the issues with the Mac version) demanded our full attention, so we had to put the Garter Carriage on hold for this version.
+
+Our New Years' resolution is to make at least another release in 2019, with
+major improvements in various parts of the software. Also, KG and KH-270 support are still on the roadmap. We can't promise, so let's 
+hope for the best. Everybody who knows some Python programming is invited to 
+support us and join development.
+
+Another resolution is to improve documentation, and for this reason we created 
+the [ayab-manual repository on Github](https://github.com/AllYarnsAreBeautiful/ayab-manual).
+It's intended to be a manual for the users on how to set the machine up, do their 
+first knittings with AYAB, and do more sophisticated projects e.g. with DBJ.
+Please feel free to contribute in this part of the project, especially for the 
+knitting instructions.
+It's written/formatted with Markdown, and we plan to also ship an offline version of it with each upcoming release of the software.  
+The manual can be found at [manual.ayab-knitting.com](https://manual.ayab-knitting.com).
+
+Also, we are planning to support of multiple languages of the software. Currently, 
+the only foreign language which is included is a not-so-up-to-date version of German.
+We'll provide instructions on how to contribute a translation for a new language, 
+so hopefully we'll have some more languages in the next releases.
+Same is for the homepage, we'll take measures to enable translations for it.
+
+Ok, enough on what we plan to do, here is the list of changes for the new release:
+
+### Firmware (Arduino)
+
+- Reduced carriage turn around time (#246)
+- Allowing some backwards carriage movement without advancing to the next row (#244)
+
+### GUI
+
+- Fixing macOS installation (at least macOS 10.12 (Sierra) is required to run AYAB) (#253)
+- Patterns with an odd number of stitches get centered on green 1 (#245)
+- Fixed lace patterns: 8-29, 8-30, 8-31, 9-32, 10-33, 10-34, 10-35, 10-36 (#249)
+- Writing date and time to the log (#259)
+- Added Middle-Color-Twice Ribber mode (see [AYAB Manual](https://manual.ayab-knitting.com)) (#239)
+- Added Heart of Pluto Ribber mode (see [AYAB Manual](https://manual.ayab-knitting.com))(#271)
+- Showing number of completed repeats in GUI (#248)
+- Showing current color in GUI (#226)
+- Fixing crash when pattern is outside left edge (#280)
+- Displaying row number larger (#225)
+
+### Known Issues
+
+- macOS: the "Knit" button remains grey (but is usable) (#282)
+- Windows: Occasional crashes after clicking "configure" (#283)
+- Windows: Installation of v0.95 into a folder containing v0.9 files leads to a
+  broken installation (#288)
+- Windows: Uninstalling the AYAB removes everything contained in the program 
+  folder (e.g. custom pattern files and the log file) (#287)
+
+### Important Notes:
+
+- The Windows version works on Windows 10 and Windows 7
+- The macOS version requires at least 10.12 (Sierra).
+- There is a new Arduino Firmware version (v0.95). Please flash it to the Arduino before knitting with the new GUI version!
+
+A big thanks goes out to the many helping hands which contributed to this version directly and indirectly, especially to duncan-d and Adrienne for the two new DBJ modes!
+
+As always:
+**Have fun with the new version!**
+
+**Your AYAB Team**
+
+---
+
+
+Liebe AYAB UserInnen,
+
+ihr musstet wieder ziemlich lange auf eine neue Version warten, sorry dafür.
+
+Wir waren durchgehend mit der Community in Kontakt und viele Leute haben uns Rückmeldungen gegeben. Außerdem haben uns  einige Fehlermeldungen, Verbesserungswünsche und sogar Softwareverbesserungen auf Github erreicht.
+Vielen Dank für all das, wir hoffen ihr hattet weiterhin Spaß mit der Software!
+Wir wissen, dass einige auf die Unterstützung des Garter Carriage (KG) warten. Wir haben einige Fortschritte damit gemacht, aber es ist leider nocht nicht fertig. Die Behebung der Probleme mit der Mac Version war wichtiger, deshalb musste der KG für diese Version leider zurückgestellt werden.
+
+Unser Vorsatz für das neue Jahr ist, mindestens noch eine weitere Version der Sofware zu machen.
+Diese weiteren Versionen sollen dann grundsätzliche Verbesserungen in weiten Teilen der Software beinhalten. 
+Auch sind zum Beispiel noch die Unterstützung von KG-Schlitten und dem Modell KH-270 auf unserem Plan.
+Wir können wie immer nichts versprechen, hoffen aber das Beste.
+Wer sich ein bisschen mit Python auskennt, ist herzlich eingeladen uns dabei zu unterstützen.
+
+Ein weiterer Vorsatz ist die Dokumentation der Software zu verbessern. Für diesen Zweck haben wir das [ayab-manual Repository auf Github](https://github.com/AllYarnsAreBeautiful/ayab-manual) erstellt. Es ist dafür vorgesehen, ein Benutzerhandbuch mit für die ersten Schritte, aber auch für fortgeschrittene Techniken wie DBJ zu werden. Auch dafür brauchen wir viele helfende Hände. Es ist in Markdown formatiert und wir wollen auch eine offline Version mit den nächsten Releases mitliefern.  
+Das Manual ist unter [manual.ayab-knitting.com](https://manual.ayab-knitting.com) erreichbar.
+
+Außerdem wollen wir die Software mehrsprachig gestalten. 
+Aktuell gibt es nur eine deutsche/denglische Version (die nicht auf dem letzten Stand ist).
+Wir werden eine Anleitung erstellen wie man bei der Übersetzung mithelfen kann, und hoffen bald noch weitere Sprachen anbieten zu können.
+Das selbe gilt für die Homepage, auch dort wollen wir weitere Sprachen anbieten können.
+
+Ok genug über unsere Vorsätze, hier die Liste der Änderungen für die neue Version:
+
+### Firmware (Arduino)
+
+- Umkehrzeit am Ende einer Reihe reduziert (#246)
+- Erlauben von etwas Rückwärtsbewegung des Schlittens ohne in die nächste Reihe zu springen(#244)
+
+### GUI
+
+- macOS Installation repariert (#253)
+- Muster mit ungerader Breite werden an Nadel Grün 1 zentriert (#245)
+- Folgende Lochmuster korrigiert: 8-29, 8-30, 8-31, 9-32, 10-33, 10-34, 10-35, 10-36 (#249)
+- Datum und Uhrzeit werden in die Logdatei geschrieben (#259)
+- Middle-Color-Twice DBJ Modus hinzugefügt (siehe [AYAB Manual](https://manual.ayab-knitting.com)) (#239)
+- Heart of Pluto DBJ Modus hinzugefügt (siehe [AYAB Manual](https://manual.ayab-knitting.com))(#271)
+- Anzahl der kompletten Musterwiederholungen im Endlosmodus wird angezeigt (#248)
+- Aktuelle Farbe wird angezeigt (#226)
+- Behebung von Abstürzen wenn das Muster links herausragt (#280)
+- Größere Darstellung der aktuellen Reihe (#225)
+
+### Bekannte Fehler
+
+- macOS: the "Knit" button remains grey (but is usable) (#282)
+- Windows: Occasional crashes after clicking "configure" (#283)
+- Windows: Installation of v0.95 into a folder containing v0.9 files leads to a
+  broken installation (#288)
+- Windows: Uninstalling the AYAB removes everything contained in the program 
+  folder (e.g. custom pattern files and the log file) (#287)
+
+### Wichtige Hinweise
+
+- Die Windows Version funktioniert auf Windows 10 und Windows 7.
+- Für die macOS Version wird mindestens 10.12 (Sierra) benötigt.
+- Es gibt eine neue Arduino Firmware (v0.95). Bitte spielt diese auf euren Arduino bevor ihr strickt!
+
+Ein großer Dank geht an die vielen HelferInnen die an dieser Version direkt und indirekt mitgewirkt haben, insbesondere an duncan-d und Adrienne für die beiden neuen DBJ Modi!
+
+Wir wünschen viel Spaß mit der neuen Version!
+
+**Viele Grüße,
+euer AYAB Team**
+
+---
