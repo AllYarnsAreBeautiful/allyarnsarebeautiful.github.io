@@ -4,7 +4,7 @@ title: Quick Start
 permalink: /quick-start/
 ---
 
-or you have a look at this [nice tutorial by Claire Williams](http://xxxclairewilliamsxxx.wordpress.com/hack-ta-machine-a-tricoter/hack-your-knitting-machine-tutorial/)
+or you have a look at this [nice tutorial by Claire Williams](http://xxxclairewilliamsxxx.wordpress.com/hack-ta-machine-a-tricoter/hack-your-knitting-machine-tutorial/). For details, refer to the [full-length AYAB manual](https://manual.ayab-knitting.com/).
 
 ### 1. Install the Hardware into your Machine
 
