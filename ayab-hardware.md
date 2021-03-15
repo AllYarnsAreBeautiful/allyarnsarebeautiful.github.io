@@ -32,7 +32,11 @@ Here you can find all necessary information you need (Layout, Schematics, BOM, .
 
 ### Buy it!
 
+#### AYAB Interface
+
 For people which are not into PCB manufacturing and soldering, you can order the AYAB Interface e.g. at [WoollyLogicKnits on Etsy (AYAB Interface)](https://www.etsy.com/uk/shop/WoollyLogicKnits).
+
+#### AYAB Shield
 
 The AYAB Shield is no longer sold directly by us, but there are some people manufacturing and selling them out there. Please double check the Shield version you are buying, so you don't get an old one. The latest version released by us is "1.4TH":
 
