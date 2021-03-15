@@ -8,8 +8,6 @@ E-Mail: [info@ayab-knitting.com](mailto:info@ayab-knitting.com)
 
 Twitter: [@AYABApparat](https://twitter.com/AYABApparat)
 
-Web-Chat: [User Chat](https://webirc.darkfasel.net/#ayab) & [Developer Chat](https://webirc.darkfasel.net/#ayab)
-
 ### Wiki, Bugtracker, ...
 
 [Source Code Repository](https://github.com/AllYarnsAreBeautiful) \\
@@ -19,9 +17,9 @@ Web-Chat: [User Chat](https://webirc.darkfasel.net/#ayab) & [Developer Chat](htt
 ### Impressum:
 
 Andreas Müller \\
-Leipartstr. 21 \\
-81369 München \\
-Telefon: +49 (0) 89 / 379 651 28
+Schönstraße 118 \\
+81543 München \\
+Telefon: +49 (0) 89 / 200 444 41
 
 <h2>Datenschutzerklärung</h2><h3 id="dsg-general-intro"></h3><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).<br>
 <br>
