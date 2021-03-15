@@ -31,11 +31,12 @@ Here you can find all necessary information you need (Layout, Schematics, BOM, .
 - [AYAB Shield](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/master/Shieldv1x)
 
 ### Buy it!
-For people which are not into PCB manufacturing and soldering, you can order the AYAB Interface at the [Evil Mad Scientists Laboratories Shop](https://shop.evilmadscientist.com/productsmenu/835).
+
+For people which are not into PCB manufacturing and soldering, you can order the AYAB Interface e.g. at [WoollyLogicKnits on Etsy (AYAB Interface)](https://www.etsy.com/uk/shop/WoollyLogicKnits).
 
 The AYAB Shield is no longer sold directly by us, but there are some people manufacturing and selling them out there. Please double check the Shield version you are buying, so you don't get an old one. The latest version released by us is "1.4TH":
 
-- [redpinkgreen on Etsy](https://www.etsy.com/shop/redpinkgreen)
+- [redpinkgreen on Etsy (AYAB Shield)](https://www.etsy.com/shop/redpinkgreen)
 - ... (if you want to show up here, just contact us!)
 
 ## And what about the Software?
