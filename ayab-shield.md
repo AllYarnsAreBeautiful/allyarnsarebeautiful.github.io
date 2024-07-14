@@ -14,9 +14,9 @@ The main difference to the 1.3TH are the additional 2.0mm Connectors for KH-900 
 
 Manufacturing Data:
 
-* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/Shieldv1x/10_ayab-arduino/through_hole/export/schematic.pdf)
-* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/Shieldv1x/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
-* [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/master/Shieldv1x/10_ayab-arduino/through_hole)
+* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/blob/main/ayab-shield/10_ayab-arduino/through_hole/export/schematic.pdf)
+* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/blob/main/ayab-shield/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
+* [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/main/ayab-shield/10_ayab-arduino/through_hole)
 
 Helpful documents:
 
@@ -29,7 +29,7 @@ Helpful documents:
 
 For all models except KH-900 and KH-965, Brother used a proprietary power connector.<br>
 It is possible to build a replica of this connector using a piece of acrylic and 2.00mm^2 solid copper wire. <br>
-The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/05_connectors/kh9xx_power.pdf).
+The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/blob/main/ayab-shield/05_connectors/kh9xx_power.pdf).
 
 ## Other Versions
 

@@ -8,7 +8,7 @@ Thanks to OpenSource hardware, the AYAB-Shield was adapted and further developed
 
 <img src="/assets/posts/ayab_interface.jpg" width="400">
 
-All Hardware Details and the BOM can be found on [Github](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/master/Shieldv2x).
+All Hardware Details and the BOM can be found on [Github](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/main/ayab-interface).
 
 The AYAB-Interface has some new features compared to the AYAB-Shield:
 
