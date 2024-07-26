@@ -2,6 +2,8 @@
 layout: page
 title: AYAB Shield
 permalink: /ayab-shield/
+redirect_from:
+  - /shield-hardware/
 ---
 
 ## Current Version: Shield v1.4TH (Through-Hole)
