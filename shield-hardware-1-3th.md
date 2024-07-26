@@ -4,7 +4,7 @@ title: Shield Hardware 1.3 Through Hole
 permalink: /shield-hardware-1-3/
 ---
 
-## This is not the current Version. See [Shield v1.4TH (Through-Hole)](/shield-hardware/) for current Version.
+## This is not the current Version. See [Shield v1.4TH (Through-Hole)](/ayab-shield/) for current Version.
 
 This shield version works only with **Arduino UNO**.<br>
 AYAB **Firmware v0.8** or greater is required for this shield version.
@@ -31,7 +31,7 @@ The manufacturing data for the connector can be found [here](https://github.com/
 
 ## Other Versions
 
-* [Shield v1.4TH](/shield-hardware/)
+* [Shield v1.4TH](/ayab-shield/)
 * [Shield v1.1 and v1.2 (SMD)](/shield-hardware-1-1/)
 * [Shield v1.0 (KH-910 only!)](/shield-hardware-1-0/)
 

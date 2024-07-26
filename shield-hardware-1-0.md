@@ -4,7 +4,7 @@ title: Shield Hardware 1.0
 permalink: /shield-hardware-1-0/
 ---
 
-## This is not the current Version. See [Shield v1.4TH (Through-Hole)](/shield-hardware/) for current Version.
+## This is not the current Version. See [Shield v1.4TH (Through-Hole)](/ayab-shield/) for current Version.
 
 This Shield is the first Version. Not usable for self-soldering and works **ONLY** with KH-910
 It works with Arduino UNO and MEGA (both tested)
@@ -25,7 +25,7 @@ The manufacturing data for the connector can be found [here](https://github.com/
 
 ## Other Versions
 
-* [Shield v1.4TH](/shield-hardware/)
+* [Shield v1.4TH](/ayab-shield/)
 * [Shield v1.3TH](/shield-hardware-1-3/)
 * [Shield v1.1 and v1.2 (SMD)](/shield-hardware-1-1/)
 
