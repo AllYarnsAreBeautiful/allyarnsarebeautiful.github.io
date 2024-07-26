@@ -25,7 +25,7 @@ Helpful documents:
 * AYAB Shield Solder Instructions [english](https://github.com/AllYarnsAreBeautiful/ayab-manuals/raw/master/soldering/en/soldering_en.pdf)/[german](https://github.com/AllYarnsAreBeautiful/ayab-manuals/raw/master/soldering/de/soldering_de.pdf)
 * How to solder? [english](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](http://ayab-knitting.com/res/manuals/DE_SolderComic.pdf)
 
-<p><a href="https://www.etsy.com/shop/redpinkgreen" target="_blank"><button type="button" class="btn btn-lg btn-primary">How to get this shield?</button></a></p>
+<p><a href="http://www.redpinkgreen.de" target="_blank"><button type="button" class="btn btn-lg btn-primary">How to get this shield?</button></a></p>
 
 ### Power connector
 
