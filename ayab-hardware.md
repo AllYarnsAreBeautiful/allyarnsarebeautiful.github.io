@@ -41,7 +41,7 @@ You may find people who manufacture and sell it on the Web, but we cannot point 
 
 The AYAB Shield is not sold directly by us, but there are some people manufacturing and selling them out there. Please double check the Shield version you are buying, so you don't get an old one. The latest version released by us is "1.4TH":
 
-- [redpinkgreen on Etsy (AYAB Shield)](https://www.etsy.com/shop/redpinkgreen)
+- [redpinkgreen (AYAB Shield)](http://www.redpinkgreen.de)
 - … (if you want to show up here, just contact us!)
 
 ## And what about the Software?
