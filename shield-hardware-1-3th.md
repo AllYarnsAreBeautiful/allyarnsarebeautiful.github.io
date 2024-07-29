@@ -21,7 +21,7 @@ Manufacturing Data:
 Helpful documents:
 
 * AYAB Shield Solder Instructions [english](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/en/soldering_en.pdf)/[german](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/de/soldering_de.pdf)
-* How to solder? [english](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](http://ayab-knitting.com/res/manuals/DE_SolderComic.pdf)
+* How to solder? [english](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](https://mightyohm.com/files/soldercomic/translations/DE_SolderComic.pdf)
 
 ### Power connector
 
