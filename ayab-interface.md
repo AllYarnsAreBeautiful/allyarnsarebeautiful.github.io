@@ -28,5 +28,3 @@ This gives the construction a high value and has less "basic character".
 Of course, the AYAB interface also remains under an OpenSource license, the case will also be available for 3D printing.
 
 Furthermore, the AYAB interface is 100% software compatible with the AYAB-Shield. No software change is necessary and the functionality is the same for both versions.
-
-In addition, a new section was introduced specifically for the support of the new hardware in the [EMSL-Forum](http://forum.evilmadscientist.com/categories/ayab-all-yarns-are-beautiful)
