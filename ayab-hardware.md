@@ -34,7 +34,9 @@ Here you can find all necessary information you need (Layout, Schematics, BOM, .
 
 #### AYAB Interface
 
-For people which are not into PCB manufacturing and soldering, you can order the AYAB Interface e.g. at [WoollyLogicKnits on Etsy (AYAB Interface)](https://www.etsy.com/uk/shop/WoollyLogicKnits).
+The AYAB Interface is no longer sold nor manufactured by Evil Mad Scientist Laboratories.
+
+You may find people who manufacture and sell it on the Web, but we cannot point to particular seller as of this writing.
 
 #### AYAB Shield
 
