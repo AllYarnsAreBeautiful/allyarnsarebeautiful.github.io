@@ -11,7 +11,7 @@ All software components can be found in [our Git Repository](https://github.com/
 
 ### Windows
 
-<p><a href="https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/download/v0.95/AYAB-Win10-v0.95-Setup.exe" target="\_blank"><button type="button" class="btn btn-lg btn-primary">AYAB 0.95 (Windows 10 and 7)</button></a></p>
+<p><a href="https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/download/v0.95/AYAB-Win10-v0.95-Setup.exe" target="\_blank"><button type="button" class="btn btn-lg btn-primary">AYAB 0.95 (Windows 11, 10 and 7)</button></a></p>
 
 Run the downloaded file and install to the proposed folder.
 
