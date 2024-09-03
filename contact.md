@@ -4,14 +4,20 @@ title: Contact
 permalink: /contact/
 ---
 
-E-Mail: [info@ayab-knitting.com](mailto:info@ayab-knitting.com)
+### Contribution, Discussion, Support
+
+Our main place for discussion about the AYAB project is the [All Yarns Are Beautiful Discord server](https://discord.gg/HdZfuBQWyh). \\
+Please join the Server to stay up to date, get support and find out how to contribute to the project.
+
+For any other (official) inquiries, please use E-Mail: [info@ayab-knitting.com](mailto:info@ayab-knitting.com)
+
+### Social
 
 Twitter: [@AYABApparat](https://twitter.com/AYABApparat)
 
 ### Wiki, Bugtracker, ...
 
 [Source Code Repository](https://github.com/AllYarnsAreBeautiful) \\
-[Wiki](https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki) \\
 [Bugtracker](https://github.com/AllYarnsAreBeautiful/ayab-desktop/issues)
 
 ### Impressum:
