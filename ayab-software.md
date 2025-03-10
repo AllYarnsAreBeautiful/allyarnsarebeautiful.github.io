@@ -4,18 +4,21 @@ title: AYAB Software
 permalink: /ayab-software/
 ---
 
-## Latest Version: v1.0
+## 1.0.0
 
-[AYAB Manual for v1.0](https://manual.ayab-knitting.com/1.0/installation/software/)
+Instructions for installation and first steps:
+[AYAB Manual for 1.0.0](https://manual.ayab-knitting.com/1.0/installation/software/)
 
-## Software Components, Source Code, Test Releases
+<p><a href="https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/download/1.0.0/AYAB-1.0.0.exe" target="\_blank"><button type="button" class="btn btn-lg btn-primary">Windows 11 and 10</button></a></p>
+<p><a href="https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/download/1.0.0/AYAB-1.0.0.dmg" target="\_blank"><button type="button" class="btn btn-lg btn-primary">macOS (Big Sur or newer)</button></a></p>
+<p><a href="https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/download/1.0.0/AYAB-1.0.0-x86_64.AppImage" target="\_blank"><button type="button" class="btn btn-lg btn-primary">Linux AppImage</button></a></p>
+
+## Software Components, Source Code
 
 All software components can be found in [our Git Repositories](https://github.com/AllYarnsAreBeautiful).
 
-Test Releases can be found in the [Releases Section](https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases) of the AYAB-Desktop Repository.
-
 ## Older Released Versions
 
-### v0.95
+### 0.95
 
-For installation instructions and documentation, please visit [AYAB Manual for v0.95](https://manual.ayab-knitting.com/0.95/installation/software/).
+For download links, installation instructions and documentation, please visit [AYAB Manual for 0.95](https://manual.ayab-knitting.com/0.95/installation/software/).
