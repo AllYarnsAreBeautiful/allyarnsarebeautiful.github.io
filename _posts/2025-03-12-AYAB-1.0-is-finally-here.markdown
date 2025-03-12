@@ -9,7 +9,7 @@ categories:
 
 Our last release, 0.95, in 2019, has served the community well but now we're back with bug fixes and some exciting new functionality.
 
-The new software is available [here](https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/latest). Please go check it out and then head over to the [manual](http://manual.ayab-knitting.com/1.0) to get started. Note that you will have to [flash the new firmware](https://manual.ayab-knitting.com/1.0/installation/firmware/) to the latest 1.0 version and select your machine version in the Preferences dialog. The 
+The new software is available [here](https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/latest). Please go check it out and then head over to the [manual](http://manual.ayab-knitting.com/1.0) to get started. Note that you will have to [flash the new firmware](https://manual.ayab-knitting.com/1.0/installation/firmware/) to the latest 1.0 version and select your machine version in the Preferences dialog.
 
 The new software works with the existing hardware so the shield or interface that you already have should still work but if you're using an Arduino Mega, you'll have to migrate to an UNO R3.
 
