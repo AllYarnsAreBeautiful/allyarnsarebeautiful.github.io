@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "AYAB 1.0 is finally here!"
+date:   2025-03-12 17:15:00
+categories:
+---
+
+# AYAB 1.0 is finally here!
+
+Our last release, 0.95, in 2019, has served the community well but now we're back with bug fixes and some exciting new functionality.
+
+The new software is available [here](https://github.com/AllYarnsAreBeautiful/ayab-desktop/releases/latest). Please go check it out and then head over to the [manual](http://manual.ayab-knitting.com/1.0) to get started. Note that you will have to [flash the new firmware](https://manual.ayab-knitting.com/1.0/installation/firmware/) to the latest 1.0 version and select your machine version in the Preferences dialog. The 
+
+The new software works with the existing hardware so the shield or interface that you already have should still work but if you're using an Arduino Mega, you'll have to migrate to an UNO R3.
+
+## New features:
+
+* A preview pane of the needles your machine is selecting
+* The 2 second startup delay has been removed
+* Garter carriage support
+* Brother KH-270 support
+* Software no longer automatically flips images horizontally
+* A Linux Appimage is now available so users don't have to build from source
+* Translations for various languages available
+
+## Bugs fixed in this release:
+
+* Desktop software installs correctly on Mac
+* Knitting can start on the right on most machines (excluding KH-910 and KH-950)
+* Lace carriage patterning issues have been fixed
+
+If you run into any issues or need help getting started, come let us know in the [#help-threads on our Discord server](https://discord.gg/qZgzj3k2EJ).
+
+AYAB is open source and maintained by a small army of volunteers located all over the world. All of our code, design files, and documentation is available on [Github](https://github.com/AllYarnsAreBeautiful).
+
+If you want to contribute, come introduce yourself on [Discord](https://discord.gg/qZgzj3k2EJ).
+
+We'd like to say a big thank you to all of the contributors who have made this release possible and the users who have reported bugs and discussed solutions. Without all of y'all, AYAB wouldn't be possible.
+
+
+---
