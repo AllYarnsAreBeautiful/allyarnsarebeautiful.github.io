@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AYAB 1.0 is finally here!"
-date:   2025-03-12 17:15:00
+date:   2025-03-10 17:15:00
 categories:
 ---
 
