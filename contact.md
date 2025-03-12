@@ -11,10 +11,6 @@ Please join the Server to stay up to date, get support and find out how to contr
 
 For any other (official) inquiries, please use E-Mail: [info@ayab-knitting.com](mailto:info@ayab-knitting.com)
 
-### Social
-
-Twitter: [@AYABApparat](https://twitter.com/AYABApparat)
-
 ### Wiki, Bugtracker, ...
 
 [Source Code Repository](https://github.com/AllYarnsAreBeautiful) \\
